@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Livraria 28SCJ</string>
+    <string name="title_app">LIVRARIA-28SCJ</string>
+    <string name="title_activity_menu">LIVRARIA-28SCJ</string>
+    <string name="email_emp">douglaspt@gmail.com</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">About</string>
+    <string name="adicionar">Add</string>
+    <string name="sair">Exit</string>
+
+    <string name="label_id">ID: </string>
+    <string name="label_titulo">Title:</string>
+    <string name="label_autor">Author:</string>
+    <string name="label_categoria">Category:</string>
+    <string name="txtLogin">Login</string>
+    <string name="txtSenha">Password</string>
+    <string name="txtManter_conectado">Keep Connected</string>
+    <string name="btnLogar">Login</string>
+    <string name="label_cadastrar">Register</string>
+    <string name="label_alterar">Edit</string>
+    <string name="label_salvar">Save</string>
+    <string name="label_excluir">Delete</string>
+    <string name="developed_by">Developed by:</string>
+    <string name="label_nome">Douglas Pimentel Teixeira</string>
+    <string name="label_version">Version: 1.0</string>
+    <string name="label_reserved">© 2017 Student FIAP - All rights reserved.</string>
+    <string name="txt_cancelado">Canceled</string>
+
+</resources>

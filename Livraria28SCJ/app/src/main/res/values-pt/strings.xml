@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Livraria 28SCJ</string>
+    <string name="action_settings">Sobre</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="btnLogar">Login</string>
+    <string name="developed_by">Desenvolvido por:</string>
+    <string name="email_emp">douglaspt@gmail.com</string>
+    <string name="label_alterar">Editar</string>
+    <string name="label_autor">Autor:</string>
+    <string name="label_cadastrar">Cadastrar</string>
+    <string name="label_categoria">Categoria:</string>
+    <string name="label_excluir">Remover</string>
+    <string name="label_id">"ID: "</string>
+    <string name="label_nome">Douglas Pimentel Teixeira</string>
+    <string name="label_reserved">© 2017 Aluno FIAP - Todos direitos reservados.</string>
+    <string name="label_salvar">Salvar</string>
+    <string name="label_titulo">Titulo:</string>
+    <string name="label_version">Versão: 1.0</string>
+    <string name="navigation_drawer_close">Fechar a gaveta de navegação</string>
+    <string name="navigation_drawer_open">Abrir a gaveta de navegação</string>
+    <string name="sair">Sair</string>
+    <string name="title_activity_menu">LIVRARIA-28SCJ</string>
+    <string name="title_app">LIVRARIA-28SCJ</string>
+    <string name="txtLogin">Login</string>
+    <string name="txtManter_conectado">Manter Conectado</string>
+    <string name="txtSenha">Senha</string>
+    <string name="txt_cancelado">Cancelado</string>
+</resources>
